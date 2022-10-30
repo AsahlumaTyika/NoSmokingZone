@@ -1,0 +1,54 @@
+/* ==================================
+ # Some custom styling
+================================== */
+
+.btnn {
+  cursor: pointer;
+  background-color: #3498db;
+  border: 2px solid #3498db;
+  border-radius: 4px;
+  color: #000;
+  display: block;
+  font-size: 16px;
+  padding: 10px;
+  margin-top: 20px;
+
+}
+
+a {
+  color: #3498db;
+}
+
+.navbar-custom {
+  background-color: #3498db;
+}
+
+.form-control.success input {
+  border-color: #2ecc71;
+}
+
+.form-control.error input {
+  border-color: #e74c3c
+}
+
+.footer {
+  border: 5px solid #3498db;
+  position: static;
+  bottom: 0;
+
+
+}
+
+.smallerror {
+  font-size: 10px;
+  color: #e74c3c;
+
+}
+
+.invis {
+  visibility: hidden;
+}
+
+.vis {
+  visibility: visible;
+}
